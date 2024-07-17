@@ -1,0 +1,11 @@
+.Grid {
+    display: grid;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.GridHolder {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
